@@ -1,0 +1,11 @@
+C:\Users\SDWEB\Documents\Visual Studio 2017\Projects\VoiceToText\VoiceToText\bin\Debug\VoiceToText.exe.config
+C:\Users\SDWEB\Documents\Visual Studio 2017\Projects\VoiceToText\VoiceToText\bin\Debug\VoiceToText.exe
+C:\Users\SDWEB\Documents\Visual Studio 2017\Projects\VoiceToText\VoiceToText\bin\Debug\VoiceToText.pdb
+C:\Users\SDWEB\Documents\Visual Studio 2017\Projects\VoiceToText\VoiceToText\bin\Debug\Microsoft.Speech.dll
+C:\Users\SDWEB\Documents\Visual Studio 2017\Projects\VoiceToText\VoiceToText\obj\Debug\VoiceToText.csprojResolveAssemblyReference.cache
+C:\Users\SDWEB\Documents\Visual Studio 2017\Projects\VoiceToText\VoiceToText\obj\Debug\VoiceToText.Form1.resources
+C:\Users\SDWEB\Documents\Visual Studio 2017\Projects\VoiceToText\VoiceToText\obj\Debug\VoiceToText.Properties.Resources.resources
+C:\Users\SDWEB\Documents\Visual Studio 2017\Projects\VoiceToText\VoiceToText\obj\Debug\VoiceToText.csproj.GenerateResource.Cache
+C:\Users\SDWEB\Documents\Visual Studio 2017\Projects\VoiceToText\VoiceToText\obj\Debug\VoiceToText.csproj.CoreCompileInputs.cache
+C:\Users\SDWEB\Documents\Visual Studio 2017\Projects\VoiceToText\VoiceToText\obj\Debug\VoiceToText.exe
+C:\Users\SDWEB\Documents\Visual Studio 2017\Projects\VoiceToText\VoiceToText\obj\Debug\VoiceToText.pdb
